@@ -2,21 +2,18 @@
 [Tobias Ettling](https://github.com/Tobivanceobi)<sup>1</sup>,
 [Sari Saba-Sadiya](https://sari-saba-sadiya.github.io/)<sup>2</sup>,
 [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/)<sup>2</sup><br>
-<sup>1</sup> Goethe University Frankfurt
-<sup>2</sup> University of St.Gallen
+<sup>1</sup> University of St.Gallen <br>
+<sup>2</sup> Goethe University Frankfurt
 
 Code for the paper ["Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study"](https://github.com/Arsu-Lab/Different-Algorithms-Uncover-Different-Patterns-BrainAge-Prediction/blob/main/BIBM_2023.pdf), presented in BIBM-AIBH'2023.
 
 ## Overview:
 
-
 ## Youtube Demo
-
-
-## Section 2
 
 ## Contents:
 
+## How to Run
 
 ## Cite
 ```
