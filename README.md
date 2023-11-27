@@ -1,4 +1,4 @@
-# Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study
+# Different Algorithms *(Might)* Uncover Different Patterns: A Brain-Age Prediction Case Study
 [Tobias Ettling](https://github.com/Tobivanceobi)<sup>1</sup>,
 [Sari Saba-Sadiya](https://sari-saba-sadiya.github.io/)<sup>2</sup>,
 [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/)<sup>2</sup><br>
