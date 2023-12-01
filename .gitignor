@@ -1,0 +1,15 @@
+*.pth
+*.mat
+*.png
+# Environments
+.env
+.venv
+*.pyc
+*.pyo
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+.idea/
