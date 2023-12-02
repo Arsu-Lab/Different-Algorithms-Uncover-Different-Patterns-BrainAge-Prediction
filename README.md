@@ -1,6 +1,6 @@
 <div class="row">
   <div class="column"><img height="95" src='data/figures/BrainAge.png' border="1px" align="left"></div>
-  <div class="column"><h1> Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study </h1></div>
+  <div class="column"><h1> Different Algorithms (Might) Uncover Different Patterns:  <br> A Brain-Age Prediction Case Study </h1></div>
 </div>
 
 ## Overview:
