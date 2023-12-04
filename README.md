@@ -12,31 +12,31 @@ patterns uncovered in EEG data? Such variations could potentially result in diff
 interpretations.
 ### Preprocessing Framework
 
-<div style="background: white; width: fit-content; padding:30px 40px;">
+<div style="background-color: white; width: fit-content; padding:30px 40px;">
     <img width="700" src='paper/figures/RejectionInterpolation.png'/>
 </div>
 
 ### Feature Selection & extraction
 
-<div style="background: white; width: fit-content; padding:30px 40px;">
+<div style="background-color: white; width: fit-content; padding:30px 40px;">
     <img width="700" src='paper/figures/FeatureExtraction.png'/>
 </div>
 
 ### Model Training & Tuning
 
-<div style="background: white; width: fit-content; padding:30px 40px;">
+<div style="background-color: white; width: fit-content; padding:30px 40px;">
     <img width="700" src='paper/figures/TrainingPipeline.png'/>
 </div>
 
 ### Performance On The NeuroTechX BrainAge Prediction Dataset
 
-<div style="background: white; width: fit-content; padding:30px 40px;">
+<div style="background-color: white; width: fit-content; padding:30px 40px;">
     <img width="700" src='paper/figures/PerformancePlot.png'/>
 </div>
 
 ### Computing The SHAPAgreement Across Models
 
-<div style="background: white; width: fit-content; padding:30px 40px;">
+<div style="background-color: white; width: fit-content; padding:30px 40px;">
     <img width="700" src='paper/figures/SHAPAgreement.png'/>
 </div>
 
