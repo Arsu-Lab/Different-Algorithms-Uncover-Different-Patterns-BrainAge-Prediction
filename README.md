@@ -11,34 +11,23 @@ important question: Do different experimental design choices, particularly regar
 patterns uncovered in EEG data? Such variations could potentially result in differing, or even contradictory, 
 interpretations.
 ### Preprocessing Framework
+<img width="700" src='paper/figures/RejectionInterpolation.png'/>
 
-<div style="background-color: white; width: fit-content; padding:30px 40px;">
-    <img width="700" src='paper/figures/RejectionInterpolation.png'/>
-</div>
 
 ### Feature Selection & extraction
+<img width="700" src='paper/figures/FeatureExtraction.png'/>
 
-<div style="background-color: white; width: fit-content; padding:30px 40px;">
-    <img width="700" src='paper/figures/FeatureExtraction.png'/>
-</div>
 
 ### Model Training & Tuning
+<img width="700" src='paper/figures/TrainingPipeline.png'/>
 
-<div style="background-color: white; width: fit-content; padding:30px 40px;">
-    <img width="700" src='paper/figures/TrainingPipeline.png'/>
-</div>
 
 ### Performance On The NeuroTechX BrainAge Prediction Dataset
+<img width="700" src='paper/figures/PerformancePlot.png'/>
 
-<div style="background-color: white; width: fit-content; padding:30px 40px;">
-    <img width="700" src='paper/figures/PerformancePlot.png'/>
-</div>
 
 ### Computing The SHAPAgreement Across Models
-
-<div style="background-color: white; width: fit-content; padding:30px 40px;">
-    <img width="700" src='paper/figures/SHAPAgreement.png'/>
-</div>
+<img width="700" src='paper/figures/SHAPAgreement.png'/>
 
 
 ## Contents:
