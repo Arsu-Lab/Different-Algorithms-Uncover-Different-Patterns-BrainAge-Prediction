@@ -1,16 +1,15 @@
-
 <img height="130" src='paper/figures/BrainAge.png'/>
 
 # Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study
 
+Code for the paper ["Different Algorithms (Might) Uncover Different Patterns"](https://github.com/Arsu-Lab/Different-Algorithms-Uncover-Different-Patterns-BrainAge-Prediction/blob/main/paper/BIBM_2023.pdf) first presented in the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). 
+
+## Overview:
 Machine learning techniques are ubiquitous in bioinformatics and EEG research in particular. However, there is still a 
 lot of ambiguity and room for experimental design choices in the experiment setup and analysis pipeline. This raises an
 important question: Do different experimental design choices, particularly regarding model selection, influence the 
 patterns uncovered in EEG data? Such variations could potentially result in differing, or even contradictory, 
 interpretations.
-### We are in the process of refactoring most of our code we used in the paper in order to create a click through tutorial. Pleas be patient as we update the repo.
-
-## Overview:
 ### Preprocessing Framework
 
 <div style="background: white; width: fit-content; padding:30px 40px;">
@@ -42,20 +41,14 @@ interpretations.
 </div>
 
 
-
-## Youtube Demo
-
-
-## Section 2
-
 ## Contents:
 
 
 ## Cite
 ```
-@INPROCEEDINGS{,
-  author={},
-  booktitle={}, 
+@INPROCEEDINGS{Ettling_2023,
+  author={Tobias Ettling, Sari Sadiya, Gemma Roig},
+  booktitle={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
   title={Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study}, 
   year={2023},
   volume={},
