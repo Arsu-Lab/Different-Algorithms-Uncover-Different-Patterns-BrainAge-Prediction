@@ -1,6 +1,6 @@
 <h1> 
 <div class="row">
-  <div class="column"><img height="80" src='paper/figures/BrainAge.png' border="1px" align="left"></div>
+  <div class="column"><img height="90" src='paper/figures/BrainAge.png' border="1px" align="left"></div>
   <div class="column"> Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study</div>
 </div>
 </h1>
