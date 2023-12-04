@@ -34,7 +34,9 @@ interpretations.
 
 
 ## Contents:
-
+- *models:* the training code for each of the 10 models explored in the original paper.
+- *example_eeg_preprocessing.ipynb:* a step by step notebook showcasing how to to run our data prerpocessing pipeline. 
+- *example_eeg_feature_extraction.ipynb:* a ste by step notebook showcasing how to run our feature extraction pipeline. 
 
 ## Cite
 ```
