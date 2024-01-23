@@ -40,13 +40,13 @@ interpretations.
 
 ## Cite
 ```
-@INPROCEEDINGS{Ettling_2023,
-  author={Tobias Ettling, Sari Sadiya, Gemma Roig},
+@INPROCEEDINGS{10385662,
+  author={Ettling, Tobias and Saba-Sadiya, Sari and Roig, Gemma},
   booktitle={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
   title={Different Algorithms (Might) Uncover Different Patterns: A Brain-Age Prediction Case Study}, 
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}
+  pages={4051-4058},
+  doi={10.1109/BIBM58861.2023.10385662}
 }
