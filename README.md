@@ -25,7 +25,6 @@ interpretations.
 <img width="700" src='paper/figures/TrainingPipeline.png'/>
 
 
-
 ### Performance On The NeuroTechX BrainAge Prediction Dataset
 <img width="700" src='paper/figures/PerformancePlot.png'/>
 
