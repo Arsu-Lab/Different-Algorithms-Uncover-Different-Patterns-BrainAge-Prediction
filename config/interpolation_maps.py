@@ -43,3 +43,27 @@ chan_map_R5 = {
     "R4": ["E112", "E111", "E13", "E29", "E106", "E7", "E30", "E36", "E37", "E31", "E80", "E87", "E55", "E6", "E78", "E86", "E79", "E54", "E53", "E61", "E105", "E104"],
     "R5": ["E50", "E51", "E52", "E57", "E58", "E59", "E60", "E64", "E65", "E66", "E67", "E68", "E69", "E70", "E71", "E72", "E62", "E73", "E74", "E75", "E76", "E77", "E81", "E82", "E83", "E84", "E85", "E88", "E89", "E90", "E91", "E92", "E94", "E95", "E96", "E97", "E100", "E101"]
 }
+
+
+chan_map_colors = {
+    "R1": 'darkred',
+    "R2": 'red',
+    "R3": 'slateblue',
+    "R4": 'darksalmon',
+    "R5": 'magenta',
+    "R6": 'mediumseagreen',
+    "R7": 'dodgerblue',
+    "R8": 'darkgoldenrod',
+    "R9": 'darkmagenta',
+    "R10": 'green',
+    "R11": 'blue',
+    "R12": 'orange',
+    "R13": 'firebrick',
+    "R14": 'limegreen',
+    "R15": 'crimson',
+    "R16": 'sienna',
+    "R17": 'navy',
+    "R18": 'teal',
+    "R19": 'olive',
+    "R20": 'purple',
+}
