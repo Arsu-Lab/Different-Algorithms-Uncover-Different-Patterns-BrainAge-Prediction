@@ -41,14 +41,15 @@ interpretations.
     - `example_subj_EC_preproc.pickle`: preprocessed eeg data from *example_subj_EC_raw.fif.gz*.
     - `example_subj_EO_preproc.pickle`: preprocessed eeg data from *example_subj_EO_raw.fif.gz*.
   - `example_training_set`: contains the `12-all` training set we used in the paper.
-  - `example_shap_values`: contains the shap values for our best model (XGBoost) trained on the `12-all` training set.
 * `models`: contains the corresponding code for each of the 10 models explored in the original paper.
   - `training.ipynb`: contains the code for training and tuning the models.
   - `shap_values.ipynb`: contains the code for computing the shap values.
+  - `shap_values.pickle`: is a dict object containing the shap values and fold indexes they were computed on for the specific model.
 * `example_eeg_preprocessing.ipynb`: a step by step notebook showcasing how to to run our data prerpocessing pipeline. 
 * `example_eeg_feature_extraction.ipynb`: a step by step notebook showcasing how to run our feature extraction pipeline. 
 * `example_plot_interpolation_map.ipynb`: a step by step notebook showcasing how to create the regional interpolation plots.
 * `example_aggregated_shap_value.ipynb`: a step by step notebook showcasing how to aggregate shap values and create rank orders of the feature groups based on the shap value.
+* `example_shap_agreement_metric.ipynb`: a step by step notebook showcasing how to compute the ShapAgreement metric between models.
 
 ## Cite
 ```
