@@ -5,7 +5,7 @@
 </div>
 </h1>
 
-Code for the paper ["Different Algorithms (Might) Uncover Different Patterns"](https://github.com/Arsu-Lab/Different-Algorithms-Uncover-Different-Patterns-BrainAge-Prediction/blob/main/paper/BIBM_2023.pdf) first presented in the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). 
+Code for the paper ["Different Algorithms (Might) Uncover Different Patterns"](https://github.com/Arsu-Lab/Different-Algorithms-Uncover-Different-Patterns-BrainAge-Prediction/blob/main/paper/BIBM_2023.pdf) first presented in the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023) [[ArXiv](https://arxiv.org/abs/2402.09464)]. 
 
 ## Overview:
 Machine learning techniques are ubiquitous in bioinformatics and EEG research in particular. However, there is still a 
